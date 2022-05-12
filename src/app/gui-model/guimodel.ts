@@ -34,6 +34,7 @@ export class GuiModel {
                     }
                     ]
                     },
+                    
                 {
                     "id": "FriendForm",
                     "title": "Friend",
