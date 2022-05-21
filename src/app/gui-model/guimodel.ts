@@ -251,28 +251,28 @@ export class GuiModel {
                             "type": "button",
                             "name": "Friends",
                             "icon": "fa-user",
-                            "color": "blue",
+                            "color": "lime",
                             "page": "friendspage",
                         },
                         {
                             "type": "button",
                             "name": "Location",
                             "icon": "fa-cubes",
-                            "color": "yellow",
+                            "color": "purple",
                             "page": "locationspage",
                         },
                         {
                             "type": "button",
                             "name": "Groups",
                             "icon": "fa-weixin",
-                            "color": "wisteria",
+                            "color": "turquoise",
                             "page": "groupspage"
                         },
                         {
                             "type": "button",
                             "name": "Activity",
                             "icon": "fa-weixin",
-                            "color": "green",
+                            "color": "midnight blue",
                             "page": "activityspage"
                         },
                     ]
@@ -287,7 +287,7 @@ export class GuiModel {
                             "type": "newButton",
                             "name": "NewFriend",
                             "icon": "fa-user",
-                            "color": "green",
+                            "color": "sun flower",
                             "form": {
                                 "form": "FriendForm"
                             }
@@ -295,7 +295,7 @@ export class GuiModel {
                         {
                             "type": "list",
                             "icon": "fa-user",
-                            "color": "blue",
+                            "color": "emerald",
                             "search": true,
                             "url": "/friend",
                             "form": {
@@ -314,7 +314,7 @@ export class GuiModel {
                             "type": "newButton",
                             "name": "NewLocation",
                             "icon": "fa-home",
-                            "color": "green",
+                            "color": "pumpkin",
                             "width": 2,
                             "form": {
                                 "form": "LocationForm"
@@ -323,7 +323,7 @@ export class GuiModel {
                         {
                             "type": "list",
                             "icon": "fa-home",
-                            "color": "blue",
+                            "color": "bemerald",
                             "search": true,
                             "url": "/location",
                             "form": {
@@ -342,7 +342,7 @@ export class GuiModel {
                             "type": "newButton",
                             "name": "NewGroup",
                             "icon": "fa-weixin",
-                            "color": "amethyst",
+                            "color": "lime",
                             "form": {
                                 "form": "GroupForm"
                             }
@@ -350,7 +350,7 @@ export class GuiModel {
                         {
                             "type": "list",
                             "icon": "fa-weixin",
-                            "color": "wisteria",
+                            "color": "red",
                             "search": true,
                             "url": "/group",
                             "form": {
@@ -371,7 +371,7 @@ export class GuiModel {
                             "type": "newButton",
                             "name": "NewActivity",
                             "icon": "fa-weixin",
-                            "color": "green",
+                            "color": "clouds",
                             "form": {
                                 "form": "activityForm"
                             }
@@ -379,7 +379,7 @@ export class GuiModel {
                         {
                             "type": "list",
                             "icon": "fa-weixin",
-                            "color": "green",
+                            "color": "lime",
                             "search": true,
                             "url": "/activity",
                             "form": {
